@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+   <composition means="Слова">
+ 	<column num="1">
+      <meaning>никогда</meaning>
+      <meaning>обязательно</meaning>
+      <meaning>нужен</meaning>
+      <meaning>должен</meaning>
+      <meaning>плохо</meaning>
+      <meaning>всегда</meaning>
+      <meaning>неправильно</meaning>
+      <meaning>смешно</meaning>
+      <meaning>сделай</meaning>
+      <meaning>не делай</meaning>
+     </column>
+     <column num="2">
+      <meaning>хорошо</meaning>
+      <meaning>прияитно</meaning>
+      <meaning>люблю тебя</meaning>
+      <meaning>великолепно</meaning>
+      <meaning>мягкий</meaning>
+      <meaning>бедняжка</meaning>
+      <meaning>не беспокойся</meaning>
+      <meaning>да, я</meaning>
+      <meaning>будь осторожен</meaning>
+      <meaning>не забудь</meaning>
+      </column>
+   </composition>
+	<composition means="Интонация">
+ 	<column num="1">
+      <meaning>критичная</meaning>
+      <meaning>унижающая</meaning>
+      <meaning>поучающая</meaning>
+      <meaning>издевательская</meaning>
+      <meaning>снисходительная</meaning>
+      <meaning>приказывающая</meaning>
+     </column>
+     <column num="2">
+      <meaning>любящая</meaning>
+      <meaning>ободряющая</meaning>
+      <meaning>теплая</meaning>
+      <meaning>утешающая</meaning>
+      <meaning>сочувствующая</meaning>
+      <meaning>участвующая</meaning>
+      </column>
+      </composition>
+  </Data>
